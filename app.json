@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "sinanex",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"Raganork pack;Author name"
+            "value":"sinannn"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,17 +51,17 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"sinanex-md"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"sinanex-md;https://imgur.com/y8owpS2"
         },
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
@@ -91,7 +91,7 @@
         "LANGUAGE": {
             "description": "Available languages: english,manglish,turkish",
             "required": false,
-            "value":"english"
+            "value":"manglish"
         },
         "AUTO_READ_STATUS": {
             "description": "View status updates automatically",
@@ -101,7 +101,7 @@
         "ALIVE": {
             "description": "Alive message, customize your alive msg by looking wiki",
             "required": false,
-            "value":"_Bot is alive since {uptime}_"
+            "value":"_sinan-md is alive since {uptime}_"
         },
        "SESSION": {
             "description": "Your session code, obtained by scanning QR",
